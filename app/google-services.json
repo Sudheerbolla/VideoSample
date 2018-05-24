@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "51066033423",
+    "firebase_url": "https://fifthvital-1517895809096.firebaseio.com",
+    "project_id": "fifthvital-1517895809096",
+    "storage_bucket": "fifthvital-1517895809096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51066033423:android:06acce29c3640039",
+        "android_client_info": {
+          "package_name": "com.videosource"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51066033423-643u6fcqshq28sa8n972edv269pb7842.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.videosource",
+            "certificate_hash": "fc3a4c73dbf1fa9977bfc4968bd91aef0658ecb6"
+          }
+        },
+        {
+          "client_id": "51066033423-sd423noi8p9g84qo8c2kt61mafrhip4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6cPGgkikLBFInWJUUySUdlqLjdjQAQiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51066033423-sd423noi8p9g84qo8c2kt61mafrhip4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
